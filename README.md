@@ -1,1 +1,1 @@
-# scanner_with_form
+# scanner using windows forms and threads 
